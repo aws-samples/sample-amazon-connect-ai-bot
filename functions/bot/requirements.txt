@@ -1,0 +1,6 @@
+ebmlite
+uuid6
+boto3
+aws-lambda-powertools
+amazon-transcribe
+pynamodb
